@@ -9,6 +9,7 @@
 
 ## General Info
 This Project is part of Udacity Data Science Program.I have used Python language.
+[Link](https://medium.com/@sarafathima187/airbnb-data-analysis-57af362fb7dc) to my blog.
 
 ## Libraries
 Numpy, Pandas, Matplotlib, Seaborn, TextBlob, Regex, String, nltk.
